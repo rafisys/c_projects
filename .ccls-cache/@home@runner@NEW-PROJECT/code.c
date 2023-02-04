@@ -12,9 +12,10 @@ int main()
         {
           if(j>=i && j<=2*n-r)
           {
-          printf("k");
+          printf("%d",k);
             }
-                else
+         
+          else
       {
         if(j<n)
         {
