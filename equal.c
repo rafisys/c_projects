@@ -1,11 +1,13 @@
 #include<stdio.h>
 int main()
 {
-  int a;
-  printf("Enter number");
-  scanf("%d",&a);
-  if (a>0)
-    printf("Positive");
-  else
-    printf("non positive");
+ int i;
+ printf("Enter a number ");
+ scanf("%d",&i);
+ for(i=1;i>=10;i++)
+  {
+    printf("a");
+   }
+   printf("\n");
+   
 }
